@@ -1,0 +1,37 @@
+# Core dependencies
+llama-index
+llama-index-core
+llama-index-llms-openai
+openai
+instructor
+
+# MCP tools
+mcp
+fastapi
+uvicorn
+websockets
+
+# Data models
+pydantic
+pydantic-settings
+
+# Utilities
+pyyaml
+python-dotenv
+python-dateutil
+asyncio
+
+# Web dashboard
+jinja2
+aiohttp
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+
+# Development
+black
+flake8
+mypy
+pre-commit
